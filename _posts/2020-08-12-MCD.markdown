@@ -9,7 +9,7 @@ tags:
 ---
 # 一、打歌节目规则及投票组成
 ### MCD事前投票占比10%，中饭可以参与的投票主要有日网、全球网和WHOSFAN投票（APP）
-<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/MCD.jpg" alt="MCD" style="zoom: 50%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200819010216848.png" alt="image-20200819010216848" style="zoom:50%;" />
 
 # 二、全球网投票
 ### 1.投票时间：每周五下午 1 点至第二周周一上午 8 点 
