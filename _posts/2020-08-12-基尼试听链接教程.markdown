@@ -1,0 +1,71 @@
+---
+layout: post
+title: 基尼试听链接食用指南
+date:   2020-08-12 22:12:30 +0800
+tags:
+  - 回归期打投
+---
+
+# 基尼试听链接教程
+
+基尼试听链接是我们最近开始尝试的基尼音源打投方式，由打投组统一购买并放出Genie Link，利用手头现有的KKT/推特/脸书/苹果ID等对主打曲进行试听，该方法对冲音源榜单有一定作用。但我们仍然不建议完全用这种方法代替自己购买的账号的试听。
+
+
+
+### 一、准备用来点链接的账号（建议在歌曲发行之前就准备好）
+
+根据上次回归的数据，我们发现榜单和参与试听的账号数有一定关系，同一时段（实时/日/周）试听的账号数越多，越有助于榜单。因此我们的建议是准备**15个以上**任意途径的账号循环点击链接试听（**不要使用已经购买了套餐的号或者以前回归在打投组领的号，容易造成顶号**），按每首歌接近4分钟计算，加上换号需要的时间，可以保证每小时内号不重复。如果有更多账号，请尽量每日把手头的账号轮一遍。**号不够可以进各个打投组领号**，**即使账号不够也请务必坚持试听并循环换号，这对我们很重要。**
+
+
+
+`警告！通过此方法注册的账号不是实名账号，不可以用来充值套餐！！！`
+
+
+
+#### 步骤如下：
+
+1. 开启浏览器的无痕模式（这里是为了不需要清缓存就能换号）登录基尼官网[Genie.co.kr](Genie.co.kr)，**这里强烈建议使用火狐浏览器，火狐浏览器很少出现很多人遇到的白屏问题。**
+
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/AEB4E99928DA5B6CB94326E9E1A24398.png" alt="img" style="zoom: 50%;" />
+   
+2. 点击右上角人头，进入登录页面。这里提供了四种SNS登录方式，从下方选择你拥有的账号进行注册。
+
+   KKT和apple ID（需要苹果设备，需绑定手机，但1个手机号可以绑不止1个）相对容易注册一些。
+
+   附：[KKT注册教程]([https://plxd05.gitee.io/2020/08/12/KKT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.html](https://penglanxindong1106.github.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
+
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818123632081.png" alt="image-20200818123632081" style="zoom:33%;" />
+
+3. 成功登录后出现下面的画面，点全部接受。部分机型可能出现不跳转/白屏的问题，可以关闭白屏的这个窗口回到第一个页面刷新再点登录，或是直接换火狐浏览器（推荐）。
+
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818171910625.png" alt="image-20200818171910625" style="zoom:33%;" />
+
+4. 如图所示填写注册信息进行注册，设置好ID之后需要点一下右边的灰色按钮确认是否重名。勾选下方的同意条款，下拉完成注册。
+
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818123921466.png" alt="image-20200818123921466" style="zoom:33%;" />
+
+   ### 二、点击试听链接后进行试听
+
+   音源发布后，打投组会尽快制作试听链接并在[石墨文档](https://shimo.im/docs/pVXKxWpdcY88PrYJ/ ) ：https://shimo.im/docs/pVXKxWpdcY88PrYJ更新，请提前收藏这个网址，在保证自己的号有收听的前提下用多余设备参与试听链接打投工作。电脑玩家可使用谷歌浏览器的多开功能用多个号播放试听链接  [方法点这里](https://www.iefans.cn/dongtai/1331.html)。如果没有谷歌浏览器，开多个不同品牌的浏览器也可以。
+
+   **考虑到操作的难易程度，强烈建议大家都准备一条可以流畅收听的韩线，实在没有韩线的请看非韩线版教程。电脑要求相对较低，是不是韩线都可以，选择线路的标准是是否能流畅收听。**
+   
+   
+   
+   **不论是选择哪种方法，请务必登录收听否则不计入播放量！**
+   
+   
+   
+   #### 1.韩线版教程
+   
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E9%9F%A9%E7%BA%BF.jpg" alt="韩线" style="zoom:50%;" />
+   
+   #### 2.非韩线版教程
+   
+   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E9%9D%9E%E9%9F%A9%E7%BA%BF.jpg" alt="非韩线" style="zoom:50%;" />
+   
+   
+
+#### 3.电脑版教程
+
+<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E7%94%B5%E8%84%91.jpg" alt="电脑" style="zoom:50%;" />

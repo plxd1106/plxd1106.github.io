@@ -1,6 +1,21 @@
-{% if page.share != false %}
-<div style="margin-top:30px">
-   
-    <a href="http://v.t.sina.com.cn/share/share.php?title={{ site.url }}{{ page.url }}" class="share-btn weibo-btn" title="Share on Sina Weibo"><i class="fa fa-fw fa-weibo" aria-hidden="true"></i></a>
-</div>
+{% if site.social-share %}
+  <div class="social-share-wrapper">
+    <div class="social-share"></div>
+  </div>
 {% endif %}
+
+<!-- share.js -->
+<script src="/assets/js/social-share.min.js"></script>
+<script>
+  socialShare('.social-share', {
+    sites: [
+      {% for i in site.social-share-items %}
+        '{{ i }}'
+        {% if forloop.last == false %},
+        {% endif %}
+      {% endfor %}
+    ],
+    wechatQrcodeTitle: "分享到微信朋友圈",
+    wechatQrcodeHelper: '期待在朋友圈见到这篇文章'
+  });
+</script>
