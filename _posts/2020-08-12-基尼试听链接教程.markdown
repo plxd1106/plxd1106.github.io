@@ -26,7 +26,7 @@ tags:
 
 1. 开启浏览器的无痕模式（这里是为了不需要清缓存就能换号）登录基尼官网[Genie.co.kr](Genie.co.kr)，**这里强烈建议使用火狐浏览器，火狐浏览器很少出现很多人遇到的白屏问题。**
 
-   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/AEB4E99928DA5B6CB94326E9E1A24398.png" alt="img" style="zoom: 50%;" />
+   <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818203241780.png" alt="image-20200818203241780" style="zoom:33%;" />
    
 2. 点击右上角人头，进入登录页面。这里提供了四种SNS登录方式，从下方选择你拥有的账号进行注册。
 
@@ -34,15 +34,15 @@ tags:
 
    附：[KKT注册教程]([https://plxd05.gitee.io/2020/08/12/KKT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.html](https://penglanxindong1106.github.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
 
-   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818123632081.png" alt="image-20200818123632081" style="zoom:33%;" />
+   <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818203748033.png" alt="image-20200818203748033" style="zoom:33%;" />
 
 3. 成功登录后出现下面的画面，点全部接受。部分机型可能出现不跳转/白屏的问题，可以关闭白屏的这个窗口回到第一个页面刷新再点登录，或是直接换火狐浏览器（推荐）。
 
-   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818171910625.png" alt="image-20200818171910625" style="zoom:33%;" />
+   <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818204336677.png" alt="image-20200818204336677" style="zoom:33%;" />
 
 4. 如图所示填写注册信息进行注册，设置好ID之后需要点一下右边的灰色按钮确认是否重名。勾选下方的同意条款，下拉完成注册。
 
-   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818123921466.png" alt="image-20200818123921466" style="zoom:33%;" />
+   <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818204354301.png" alt="image-20200818204354301" style="zoom:33%;" />
 
    ### 二、点击试听链接后进行试听
 
@@ -58,14 +58,15 @@ tags:
    
    #### 1.韩线版教程
    
-   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E9%9F%A9%E7%BA%BF.jpg" alt="韩线" style="zoom:50%;" />
+   <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E9%9F%A9%E7%BA%BF.jpg" alt="韩线" style="zoom:33%;" />
    
    #### 2.非韩线版教程
    
-   <img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E9%9D%9E%E9%9F%A9%E7%BA%BF.jpg" alt="非韩线" style="zoom:50%;" />
+   <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E9%9D%9E%E9%9F%A9%E7%BA%BF.jpg" alt="非韩线" style="zoom:33%;" />
    
    
 
 #### 3.电脑版教程
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E7%94%B5%E8%84%91.jpg" alt="电脑" style="zoom:50%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E7%94%B5%E8%84%91.jpg" alt="电脑" style="zoom:33%;" />
+
