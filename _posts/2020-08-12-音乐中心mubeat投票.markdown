@@ -38,6 +38,8 @@ Mubeat是音乐中心近期新增的投票app。**投票得分占总分的10%**�
     - 新浪邮箱1个手机号最多可以绑定5个邮箱
     - protonmail：可以用其他邮箱去注册这个邮箱收取验证邮件，但有限制数量
 
-<img src="https://github.com/plxd1106/plxd1106.github.io/blob/gh-pages/_posts/images/mubeat.jpg?raw=true" alt="enter description here" style="zoom: 33%;" />
-<img src="https://github.com/plxd1106/plxd1106.github.io/blob/gh-pages/_posts/images/mubeat2.jpg?raw=true" alt="enter description here" style="zoom: 33%;" />
+![](https://pic-1300267894.cos.ap-nanjing.myqcloud.com/007ZZwvGly1gfh5xcx9a3j30u08ur1l0.jpg)
 
+![img](https://pic-1300267894.cos.ap-nanjing.myqcloud.com/007ZZwvGly1gfh5xcx9a3j30u08ur1l0.jpg
+
+![img](https://pic-1300267894.cos.ap-nanjing.myqcloud.com/007ZZwvGly1gfh5xdn9k3j30qo0zk403.jpg)
