@@ -8,11 +8,13 @@ tags: 回归期打投
 
 ---
 
-<img src="https://github.com/plxd1106/plxd1106.github.io/blob/gh-pages/_posts/images/%E6%89%93%E6%AD%8C3.jpg?raw=true" alt="enter description here" style="zoom: 50%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E6%89%93%E6%AD%8C3.jpg" alt="打歌3" style="zoom:50%;" />
 
-<img src="https://github.com/plxd1106/plxd1106.github.io/blob/gh-pages/_posts/images/%E6%89%93%E6%AD%8C1.jpg?raw=true" alt="enter description here" style="zoom: 50%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/打歌1.jpg" alt="打歌1" style="zoom:50%;" />
 
-<img src="https://github.com/plxd1106/plxd1106.github.io/blob/gh-pages/_posts/images/%E6%89%93%E6%AD%8C2.jpg?raw=true" alt="enter description here" style="zoom: 50%;" />
+
+
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E6%89%93%E6%AD%8C2.jpg" alt="打歌2" style="zoom: 50%;" />
 
 ### 附：其他打歌节目规则及分数占比
-![enter description here](https://github.com/plxd1106/plxd1106.github.io/blob/gh-pages/_posts/images/%E6%89%93%E6%AD%8C4.jpg?raw=true)
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E6%89%93%E6%AD%8C4.jpg" alt="打歌4"  />

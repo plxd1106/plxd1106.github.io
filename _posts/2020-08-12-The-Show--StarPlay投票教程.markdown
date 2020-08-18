@@ -28,24 +28,24 @@ tags:
 
    P1 登录教程
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818145228289.png" alt="image-20200818145228289" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818214050581.png" alt="image-20200818214050581" style="zoom:33%;" />
 
 P2 攒星星入口
 
-![image-20200818151209800](https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818151209800.png)
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818214111004.png" alt="image-20200818214111004" style="zoom: 67%;" />
 
 P3 发帖子拿银星
 
-<img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200818150353598.png" alt="image-20200818150353598" style="zoom: 33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818150353598.png" alt="image-20200818150353598" style="zoom: 33%;" />
 
 P4 换票
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818150434949.png" alt="image-20200818150434949" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818214158278.png" alt="image-20200818214158278" style="zoom: 33%;" />
 
 P5 投票教程
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818150837502.png" alt="image-20200818150837502" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818214216961.png" alt="image-20200818214216961" style="zoom:33%;" />
 
 P6 退出登录教程
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/image-20200818150837502.png" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818214229332.png" alt="image-20200818214229332" style="zoom:33%;" />

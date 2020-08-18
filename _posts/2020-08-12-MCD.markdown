@@ -9,14 +9,14 @@ tags:
 ---
 # 一、打歌节目规则及投票组成
 ### MCD事前投票占比10%，中饭可以参与的投票主要有日网、全球网和WHOSFAN投票（APP）
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/MCD.jpg" alt="MCD" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/MCD.jpg" alt="MCD" style="zoom: 50%;" />
 
 # 二、全球网投票
 ### 1.投票时间：每周五下午 1 点至第二周周一上午 8 点 
 ### 2.投票地址：[https://www.mwave.me/cn/](https://www.mwave.me/cn/)
 ### 3.每个账号每天1票，每个IP每天10票，可以使用梯子或流量上网模式下开关飞行模式切换IP投票。
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/%E5%85%A8%E7%90%83%E7%BD%91.jpg" alt="全球网" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/%E5%85%A8%E7%90%83%E7%BD%91.jpg" alt="全球网" style="zoom:50%;" />
 
 ---
 
@@ -25,7 +25,7 @@ tags:
 ###  2.投票地址：[https://mnetjp.com/](https://mnetjp.com/)
 ###  3.每账号每天1票，每个IP每天2票，可以使用你懂的或流量上网下开关飞行模式切换IP投票
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/mcd%E6%97%A5%E7%BD%91.jpg" alt="mcd日网" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/mcd%E6%97%A5%E7%BD%91.jpg" alt="mcd日网" style="zoom:33%;" />
 
 ---
 # 四、whosfan app投票
@@ -34,4 +34,5 @@ tags:
 [下载地址](https://pan.baidu.com/s/19xXZmG-SM_nCxp82VkmDlQ)   提取码：suju
 
 
-<img src="https://raw.githubusercontent.com/penglanxindong1106/pic/master/whosfan.jpg" alt="whosfan" style="zoom:33%;" />
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/whosfan.jpg" alt="whosfan" style="zoom:50%;" />
+
