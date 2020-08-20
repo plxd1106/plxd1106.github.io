@@ -1,0 +1,17 @@
+---
+layout: post
+title: Kit Video的使用方法
+date:   2020-08-12 22:12:30 +0800
+tags:
+  - Beyond live
+---
+
+
+
+1、手机和电脑都下载Kit Player并安装。电脑版Kit Player 下载地址 http://muzlive.com/downloads.html
+
+2、手机打开APP，需要翻一下，如果翻了还是出现错误请检查是否打开了全局模式。按提示将KIT贴近手机话筒处按下按钮直到识别完毕。这时候就可以在手机上播放了。
+
+<img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200820132014367.png" alt="image-20200820132014367" style="zoom:33%;" />
+
+3、想在电脑上播放的用户，点进刚刚识别出的视频右上角投屏按钮（如上图右侧提示）。扫描电脑上的二维码即可。 
