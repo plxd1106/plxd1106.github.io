@@ -32,7 +32,7 @@ tags:
 
    KKT和apple ID（需要苹果设备，需绑定手机，但1个手机号可以绑不止1个）相对容易注册一些。
 
-   附：[KKT注册教程]([https://plxd05.gitee.io/2020/08/12/KKT%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B.html](https://penglanxindong1106.github.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
+   附：[KKT注册教程]((https://plxd1106.gitee.io/2020/08/12/KKT注册教程.html))       [Apple id注册教程](https://zhuanlan.zhihu.com/p/93486646)       [开启双重认证的方法（本机上注册有时候不需要开也能上）](https://jingyan.baidu.com/article/a17d5285dafe398098c8f2a8.html)
 
    <img src="https://pic-1300267894.cos.ap-nanjing.myqcloud.com/image-20200818203748033.png" alt="image-20200818203748033" style="zoom:33%;" />
 
